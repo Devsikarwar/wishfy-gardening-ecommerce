@@ -19,12 +19,6 @@ Wishfy is a comprehensive e-commerce platform offering **gardening services**, p
 - **Tools:** Swagger (API documentation), Jenkins (CI/CD), Git/GitHub
 - **Deployment:** Ubuntu Server, Docker, CI/CD Pipelines
 
-## Architecture Diagram
-![Architecture Diagram](docs/wishfy-architecture.png)
-
-## API Documentation
-- [Swagger UI - Users Service](https://api.wishfy.io/users/swagger-ui/index.html#/)
-
 ## Project Highlights
 - Uses **microservices architecture** to separate user, media, product, and gardening services.
 - Implements **JWT-based authentication** and authorization.
